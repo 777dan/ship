@@ -1,0 +1,11 @@
+html, body {
+    background-color: #4a8abc;
+}
+
+#speed-div {
+    color: #d8edf1;
+}
+
+#ship-speed {
+    width: 50px;
+}
